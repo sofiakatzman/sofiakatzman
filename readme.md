@@ -80,7 +80,7 @@
 ## Projects
 </p>
 
-### Milestones Project
+### Milestones
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
@@ -93,7 +93,7 @@
 - [Video Walkthrough](https://www.youtube.com/watch?v=23grUYcH2Qw)
 - [Repo](https://github.com/sofiakatzman/Milestones.git)
 
-### RecycleQuest Project
+### RecycleQuest
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
@@ -106,7 +106,7 @@
 - [Live Web Application](https://ruby-rails-blazer-part-ii.onrender.com/)
 - [Repo](https://github.com/elainedoud/RecycleQuest.git)
 
-### BunnyWalks Project
+### BunnyWalks
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
