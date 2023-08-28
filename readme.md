@@ -81,7 +81,7 @@
 </p>
 
 ### Milestones Project
-[![Milestones](https://github.com/sofiakatzman/Milestones)]
+[![Milestones](https://github.com/sofiakatzman/Milestones)](https://github.com/sofiakatzman/Milestones)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![HTML](https://img.shields.io/badge/HTML-white)
@@ -93,19 +93,19 @@
 - [Video Walkthrough](https://www.youtube.com/watch?v=23grUYcH2Qw)
 
 ### RecycleQuest Project
-[![RecycleQuest](https://github.com/elainedoud/RecycleQuest)
+[![RecycleQuest](https://github.com/elainedoud/RecycleQuest)](https://github.com/elainedoud/RecycleQuest)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![HTML](https://img.shields.io/badge/HTML-white)
 ![CSS](https://img.shields.io/badge/CSS-white)
-![Ruby](https://img.shields.io/badge/Runy-red)
+![Ruby](https://img.shields.io/badge/Ruby-red)
 ![Rails](https://img.shields.io/badge/Rails-red)
-- **RecycleQuest**: A gamified social platform aimed at increasing recycling knowledge and awareness, as well as creating a competitive and engaging environment to promote contributions. "Girls in Tech: Hack for the Environment" hackathon entry. React front-end, Ruby on Rails backend, deployed postgres database and API. UseContext global state handling.
+- **RecycleQuest**: A gamified social platform aimed at increasing recycling knowledge and awareness, as well as creating a competitive and engaging environment to promote contributions. "Girls in Tech: Hack for the Environment" hackathon entry. React front-end, Ruby on Rails backend, deployed Postgres database and API. UseContext global state handling.
 - [Video Walkthrough](https://youtu.be/X9x1nlTRcv0)
 - [Live Web Application](https://ruby-rails-blazer-part-ii.onrender.com/)
 
 ### BunnyWalks Project
-[![BunnyWalks](https://github.com/sofiakatzman/Bunny-Walks)
+[![BunnyWalks](https://github.com/sofiakatzman/Bunny-Walks)](https://github.com/sofiakatzman/Bunny-Walks)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![HTML](https://img.shields.io/badge/HTML-white)
