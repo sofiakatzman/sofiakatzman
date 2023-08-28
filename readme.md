@@ -70,10 +70,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-F05032?style=for-the-badge&logo=Flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=Python&logoColor=yellow)
-![Wehsocket.io](https://img.shields.io/badge/Websocket.io-F05032?style=for-the-badge&logo=Websocket.io&logoColor=pink)
+![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)
+![Wehsocket.io](https://img.shields.io/badge/Websocket.io-pink?style=for-the-badge&logo=Websocket.io&logoColor=white)
 
 <br/>
 
