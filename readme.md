@@ -31,7 +31,7 @@
 
 <p align="center">
  <a href="https://sofia-katzman-portfolio-95abeaadef17.herokuapp.com/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sofiak website" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=heroku&logoColor=white" alt="sofiak website" />
  </a>
  <a href="https://linkedin.com/in/sofia-katzman" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sofiak linked-in"/>
