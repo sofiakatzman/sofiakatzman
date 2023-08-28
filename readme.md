@@ -23,7 +23,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web developer from <b>Uruguay</b> living in <b>New York City</b> 」
+    「 I am a full stack web developer born in <b>Uruguay</b>, living in <b>New York City</b> 」
     <br>
     <br>
   </samp>
