@@ -110,6 +110,8 @@
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![HTML](https://img.shields.io/badge/HTML-white)
 ![CSS](https://img.shields.io/badge/CSS-white)
+![Flask](https://img.shields.io/badge/Flask-white)
+![Python](https://img.shields.io/badge/Python-yellow)
 - **BunnyWalks**: A full-stack application designed to keep a record of walks, paths, and bunnies encountered. React front-end, Python backend with Flask API. Mobile and WebVersion available.
 - [Video Walkthrough](https://youtu.be/A9YwlcA_n5E)
 - [Repo](https://github.com/sofiakatzman/Bunny-Walks.git)
