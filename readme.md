@@ -50,6 +50,7 @@
   
  ✌️ &emsp; Gamer at heart and lover of all things puzzles, learning and problem solving. <br/><br/>
  ❤️ &emsp; Love coding, and collaborating on new projects<br/><br/>
+ 💡 &emsp; Skilled in illustration, animation, design, and project management. 
  📧 &emsp; Reach me anytime: katzmansof@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
@@ -79,8 +80,14 @@
 <p align="left">
   <a href="https://github.com/sofiakatzman?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
+**<b>Milestones</b> - a social platform dedicated to illustrating user's life accomplishments via milestones aimed at displaying a user's "full life" in effort to understand their journey and development better..
+<i>React front-end, Python backend with Flask API. Websocket.io integration for instant user updates. Bcrypt for user authentication and authorization. UseContext global state handling.</i>
 <br/>
+<b>RecycleQuest</b> - a  gamified social platform aimed at increasing recycling knowledge and awareness, as well as creating a competitive and engaging environment to promote contributions.  "Girls in Tech: Hack for the Environment" hackathon entry. 
+<i>React front-end, Ruby on Rails backend, deployed postgres database and API. UseContext global state handling.</i>
+<br/>
+<b>BunnyWalks</b> - full-stack application designed to keep a record of walks, paths, and bunnies encountered.  
+<i>React front-end, Python backend with Flask API. </i>
 <hr/>
 <br/>
 
