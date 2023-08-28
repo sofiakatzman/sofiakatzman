@@ -47,8 +47,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Gamer at heart and lover of all things puzzles, learning and problem solving. <br/><br/>
+ ✌️ &emsp; Gamer at heart and lover of all things puzzles, learning and green. <br/><br/>
  ❤️ &emsp; Love coding, and collaborating on new projects<br/><br/>
  💡 &emsp; Skilled in illustration, animation, design, and project management. 
  📧 &emsp; Reach me anytime: katzmansof@gmail.com<br/><br/>
@@ -79,8 +78,6 @@
 <br/>
 
 ## Projects
-<p align="left">
-  <a href="https://github.com/sofiakatzman?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 ### Milestones Project
@@ -105,6 +102,7 @@
 ![Rails](https://img.shields.io/badge/Rails-red)
 - **RecycleQuest**: A gamified social platform aimed at increasing recycling knowledge and awareness, as well as creating a competitive and engaging environment to promote contributions. "Girls in Tech: Hack for the Environment" hackathon entry. React front-end, Ruby on Rails backend, deployed postgres database and API. UseContext global state handling.
 - [Video Walkthrough](https://youtu.be/X9x1nlTRcv0)
+- [Live Web Application](https://ruby-rails-blazer-part-ii.onrender.com/)
 
 ### BunnyWalks Project
 [![BunnyWalks](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/sofiakatzman/Bunny-Walks)
@@ -114,11 +112,7 @@
 ![CSS](https://img.shields.io/badge/CSS-white)
 - **BunnyWalks**: A full-stack application designed to keep a record of walks, paths, and bunnies encountered. React front-end, Python backend with Flask API. Mobile and WebVersion available.
 - [Video Walkthrough](https://youtu.be/A9YwlcA_n5E)
-<p align="center">
-  <a href="https://github.com/sofiakatzman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiakatzman&theme=radical&border=7F3FBF&background=0D1117" alt="Sofia's GitHub streak"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/sofiakatzman">
