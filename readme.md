@@ -14,7 +14,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There! I am
                 <b><a target="_blank" href="https://sofia-katzman-portfolio-95abeaadef17.herokuapp.com/">Sofia Katzman</a></b>
         </samp>
 </h3>
