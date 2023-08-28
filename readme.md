@@ -15,7 +15,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There! I am
-                <b><a target="_blank" href="https://sofia-katzman-portfolio-95abeaadef17.herokuapp.com/">Sofia Katzman</a></b>
+                <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia Katzman</a></b>
         </samp>
 </h3>
 
@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
- <a href="https://www.sofiakatzman.com/" target="blank">
+ <a href="https://www.sofiakatzman.dev/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=heroku&logoColor=white" alt="sofiak website" />
  </a>
  <a href="https://linkedin.com/in/sofia-katzman" target="_blank">
