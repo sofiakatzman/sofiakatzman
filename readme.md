@@ -81,7 +81,7 @@
 </p>
 
 ### Milestones Project
-[![Milestones](https://github.com/sofiakatzman/Milestones)](https://github.com/sofiakatzman/Milestones)
+[Milestones](https://github.com/sofiakatzman/Milestones.git)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![HTML](https://img.shields.io/badge/HTML-white)
@@ -93,7 +93,7 @@
 - [Video Walkthrough](https://www.youtube.com/watch?v=23grUYcH2Qw)
 
 ### RecycleQuest Project
-[![RecycleQuest](https://github.com/elainedoud/RecycleQuest)](https://github.com/elainedoud/RecycleQuest)
+[RecycleQuest](https://github.com/elainedoud/RecycleQuest.git)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![HTML](https://img.shields.io/badge/HTML-white)
@@ -105,7 +105,7 @@
 - [Live Web Application](https://ruby-rails-blazer-part-ii.onrender.com/)
 
 ### BunnyWalks Project
-[![BunnyWalks](https://github.com/sofiakatzman/Bunny-Walks)](https://github.com/sofiakatzman/Bunny-Walks)
+[BunnyWalks](https://github.com/sofiakatzman/Bunny-Walks.git)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
 ![React](https://img.shields.io/badge/React-61DBFB)
 ![HTML](https://img.shields.io/badge/HTML-white)
