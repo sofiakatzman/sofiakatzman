@@ -51,7 +51,7 @@
  ❤️ &emsp; Lover of all things puzzles, learning and green.<br/><br/>
  💡 &emsp; Skilled in animation, design, and project management. <br/><br/>
  📧 &emsp; Reach me anytime: katzmansof@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/sofiakatzman/issues)
 
 </p>
 
