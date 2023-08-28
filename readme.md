@@ -60,10 +60,9 @@
 <br/>
 <br/>
 
-## Languages
+## Technologies
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,6 +72,9 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-F05032?style=for-the-badge&logo=Flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=Python&logoColor=yellow)
+![Wehsocket.io](https://img.shields.io/badge/Websocket.io-F05032?style=for-the-badge&logo=Websocket.io&logoColor=pink)
 
 <br/>
 
@@ -83,16 +85,33 @@
 
 ### Milestones Project
 [![Milestones](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/sofiakatzman/Milestones)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
+![React](https://img.shields.io/badge/React-61DBFB)
+![HTML](https://img.shields.io/badge/HTML-white)
+![CSS](https://img.shields.io/badge/CSS-white)
+![Flask](https://img.shields.io/badge/Flask-white)
+![Python](https://img.shields.io/badge/Python-yellow)
+![Websocket.io](https://img.shields.io/badge/Websocket.io-pink)
 - **Milestones**: A social platform dedicated to illustrating user's life accomplishments via milestones aimed at displaying a user's "full life" in an effort to understand their journey and development better. React front-end, Python backend with Flask API. Websocket.io integration for instant user updates. Bcrypt for user authentication and authorization. UseContext global state handling.
 - [Video Walkthrough](https://www.youtube.com/watch?v=23grUYcH2Qw)
 
 ### RecycleQuest Project
 [![RecycleQuest](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/elainedoud/RecycleQuest)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
+![React](https://img.shields.io/badge/React-61DBFB)
+![HTML](https://img.shields.io/badge/HTML-white)
+![CSS](https://img.shields.io/badge/CSS-white)
+![Ruby](https://img.shields.io/badge/Runy-red)
+![Rails](https://img.shields.io/badge/Rails-red)
 - **RecycleQuest**: A gamified social platform aimed at increasing recycling knowledge and awareness, as well as creating a competitive and engaging environment to promote contributions. "Girls in Tech: Hack for the Environment" hackathon entry. React front-end, Ruby on Rails backend, deployed postgres database and API. UseContext global state handling.
 - [Video Walkthrough](https://youtu.be/X9x1nlTRcv0)
 
 ### BunnyWalks Project
 [![BunnyWalks](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white)](https://github.com/sofiakatzman/Bunny-Walks)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
+![React](https://img.shields.io/badge/React-61DBFB)
+![HTML](https://img.shields.io/badge/HTML-white)
+![CSS](https://img.shields.io/badge/CSS-white)
 - **BunnyWalks**: A full-stack application designed to keep a record of walks, paths, and bunnies encountered. React front-end, Python backend with Flask API. Mobile and WebVersion available.
 - [Video Walkthrough](https://youtu.be/A9YwlcA_n5E)
 <p align="center">
