@@ -46,7 +46,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
  ✌️ &emsp; Gamer at heart and builder of things. <br/><br/>
  ❤️ &emsp; Lover of all things puzzles, learning and green.<br/><br/>
  💡 &emsp; Skilled in animation, design, and project management. <br/><br/>
