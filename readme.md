@@ -49,7 +49,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
  ✌️ &emsp; Gamer at heart and lover of all things puzzles, learning and green. <br/><br/>
  ❤️ &emsp; Love coding, and collaborating on new projects<br/><br/>
- 💡 &emsp; Skilled in illustration, animation, design, and project management. 
+ 💡 &emsp; Additionally skilled in illustration, animation, design, and project management. <br/><br/>
  📧 &emsp; Reach me anytime: katzmansof@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
 
