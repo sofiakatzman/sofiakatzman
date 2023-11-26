@@ -23,7 +23,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web developer born in <b>Uruguay</b>, living in <b>New York City</b> 」
+    「 I am a full stack software engineer, working as a digital designer! 」
     <br>
     <br>
   </samp>
@@ -74,63 +74,3 @@
 ![Wehsocket.io](https://img.shields.io/badge/Websocket.io-pink?style=for-the-badge&logo=Websocket.io&logoColor=white)
 
 <br/>
-
-## Projects
-</p>
-
-### Milestones
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
-![React](https://img.shields.io/badge/React-61DBFB)
-![HTML](https://img.shields.io/badge/HTML-white)
-![CSS](https://img.shields.io/badge/CSS-white)
-![Flask](https://img.shields.io/badge/Flask-white)
-![Python](https://img.shields.io/badge/Python-yellow)
-![Websocket.io](https://img.shields.io/badge/Websocket.io-pink)
-- **Milestones**: A social platform dedicated to illustrating user's life accomplishments via milestones aimed at displaying a user's "full life" in an effort to understand their journey and development better. React front-end, Python backend with Flask API. Websocket.io integration for instant user updates. Bcrypt for user authentication and authorization. UseContext global state handling.
-- [Video Walkthrough](https://www.youtube.com/watch?v=23grUYcH2Qw)
-- [Repo](https://github.com/sofiakatzman/Milestones.git)
-
-### RecycleQuest
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
-![React](https://img.shields.io/badge/React-61DBFB)
-![HTML](https://img.shields.io/badge/HTML-white)
-![CSS](https://img.shields.io/badge/CSS-white)
-![Ruby](https://img.shields.io/badge/Ruby-red)
-![Rails](https://img.shields.io/badge/Rails-red)
-- **RecycleQuest**: A gamified social platform aimed at increasing recycling knowledge and awareness, as well as creating a competitive and engaging environment to promote contributions. "Girls in Tech: Hack for the Environment" hackathon entry. React front-end, Ruby on Rails backend, deployed Postgres database and API. UseContext global state handling.
-- [Video Walkthrough](https://youtu.be/X9x1nlTRcv0)
-- [Live Web Application](https://ruby-rails-blazer-part-ii.onrender.com/)
-- [Repo](https://github.com/elainedoud/RecycleQuest.git)
-
-### BunnyWalks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F)
-![React](https://img.shields.io/badge/React-61DBFB)
-![HTML](https://img.shields.io/badge/HTML-white)
-![CSS](https://img.shields.io/badge/CSS-white)
-![Flask](https://img.shields.io/badge/Flask-white)
-![Python](https://img.shields.io/badge/Python-yellow)
-- **BunnyWalks**: A full-stack application designed to keep a record of walks, paths, and bunnies encountered. React front-end, Python backend with Flask API. Mobile and WebVersion available.
-- [Video Walkthrough](https://youtu.be/A9YwlcA_n5E)
-- [Repo](https://github.com/sofiakatzman/Bunny-Walks.git)
-
-
-<p align="center">
-  <a href="https://github.com/sofiakatzman">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofiakatzman&theme=radical" alt="Sofia Katzman's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/sofiakatzman"><img alt="Sofia Katzman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=sofiakatzman&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/sofiakatzman"><img alt="Sofia Katzman's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sofiakatzman&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-  <br/>
-<p align="center">
-  <a href="https://github.com/sofiakatzman">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sofiakatzman&theme=radical&border=7F3FBF&background=0D1117" alt="Sofia's GitHub streak"/>
-  </a>
-</p>
