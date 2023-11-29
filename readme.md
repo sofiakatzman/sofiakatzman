@@ -47,10 +47,10 @@
  
 <p>
   
- ✌️ &emsp; <br/><br/>
- ❤️ &emsp; I love building. Everything. <br/><br/>
- 💡 &emsp; Additionally skilled in animation, design, and methodical organization. <br/><br/>
- 📧 &emsp; Contact me directly: katzmansof@gmail.com<br/><br/>
+ ✌️ &emsp; Life lover, game enthusiaist and above average baker.<br/><br/>
+ ❤️ &emsp; I love building all the things. IRL and here.<br/><br/>
+ 💡 &emsp; On a never ending quest for learning everything I can. <br/><br/>
+ 📧 &emsp; Contact me: katzmansof@gmail.com<br/><br/>
  
 </p>
 
