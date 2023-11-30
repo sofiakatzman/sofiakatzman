@@ -10,9 +10,9 @@
     <img src="https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="sofiak blog" />
   </a>
 </p>
-<h2 align="center">
+<h3 align="center">
   Hey there, I am Sofia!
-</h2>
+</h3>
 
 
 <!-- About Section -->
