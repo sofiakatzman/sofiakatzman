@@ -1,9 +1,9 @@
 <!-- Intro  -->
 <h1 align="center">
-  Hey there! I am
-    <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia Katzman</a></b>
+  Hey there, I am
+    <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia!</a></b>
 </h1>
-
+<br/>
 
 
 <p align="center">
@@ -17,14 +17,13 @@
     <img src="https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="sofiak blog" />
   </a>
 </p>
-
 <h3 align="center">
 Full stack developer and digital designer. 
 </h3>
 
 <!-- About Section -->
 # About me
-Full stack developer and digital designer. 
+
 <p>
   ✌️ &emsp; Life lover, game enthusiast, and above-average baker.<br/><br/>
   ❤️ &emsp; I love building all the things, both in real life and here.<br/><br/>
