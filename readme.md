@@ -1,15 +1,8 @@
 <!-- Intro  -->
 <h3 align="center">
-  <samp> Hey there! I am
+  Hey there! I am
     <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia Katzman</a></b>
 </h3>
-
-<p align="center"> 
-  <samp>
-     I am a full-stack software engineer, currently working as a digital designer! 
-  </samp>
-</p>
-
 
 <p align="center">
   <a href="https://www.sofiakatzman.dev/" target="blank">
@@ -26,7 +19,7 @@
 
 <!-- About Section -->
 # About me
-
+Full stack developer and digital designer. 
 <p>
   ✌️ &emsp; Life lover, game enthusiast, and above-average baker.<br/><br/>
   ❤️ &emsp; I love building all the things, both in real life and here.<br/><br/>
