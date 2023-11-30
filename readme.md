@@ -1,16 +1,12 @@
 <!-- Intro  -->
 <h3 align="center">
-  <samp>&gt; Hey there! I am
+  <samp> Hey there! I am
     <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia Katzman</a></b>
-  </samp>
 </h3>
 
 <p align="center"> 
   <samp>
-    <br>
     「 I am a full-stack software engineer, currently working as a digital designer! 」
-    <br>
-    <br>
   </samp>
 </p>
 
