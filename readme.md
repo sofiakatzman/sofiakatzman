@@ -1,16 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Sofia Katzman's GitHub!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
-
-<!--
-<p align="center">
-  <a href="https://github.com/sofiakatzman"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
--->
-
 <!-- Intro  -->
 <h3 align="center">
   <samp>&gt; Hey there! I am
@@ -38,7 +25,7 @@
     <img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="sofiak blog" />
   </a>
 </p>
-<br />
+
 
 <!-- About Section -->
 # About me
@@ -50,7 +37,6 @@
   📧 &emsp; Contact me: katzmansof@gmail.com<br/><br/>
 </p>
 
-<br/>
 
 ## Technologies
 
@@ -69,7 +55,6 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)
 ![Websocket.io](https://img.shields.io/badge/Websocket.io-pink?style=for-the-badge&logo=Websocket.io&logoColor=white)
 
-<br/>
 <!-- Featured Project Section -->
 
 # Featured Projects
