@@ -13,21 +13,15 @@
 <h2 align="center">
   Hey there, I am Sofia!
 </h2>
-<h3 align="center">
-Full stack developer and digital designer. 
-</h3>
-
-
-
 
 
 <!-- About Section -->
 # About me
-
+I am a full stack developer and digital designer. 
 <p>
-  ✌️ &emsp; Life lover, game enthusiast, and above-average baker.<br/><br/>
-  ❤️ &emsp; I love building all the things, both in real life and here.<br/><br/>
-  💡 &emsp; On a never-ending quest for learning everything I can. <br/><br/>
+  ✌️ &emsp; Life lover, game enthusiast, and above-average baker.<br/>
+  ❤️ &emsp; I love building all the things, both in real life and here.<br/>
+  💡 &emsp; On a never-ending quest for learning everything I can. <br/>
   📧 &emsp; Contact me: katzmansof@gmail.com<br/><br/>
 </p>
 
