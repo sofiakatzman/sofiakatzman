@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-   <img src="https://static.vecteezy.com/system/resources/thumbnails/008/854/220/small/3d-waving-hand-gesture-free-png.png" alt="waving hand"/>Hello! I am Sofia!
+<img src="https://static.vecteezy.com/system/resources/thumbnails/008/854/220/small/3d-waving-hand-gesture-free-png.png" alt="waving hand"/>Hello! I'm Sofia!
 </h3>
 <p align="center">
   <a href="https://www.sofiakatzman.dev/" target="blank">
