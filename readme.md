@@ -9,53 +9,48 @@
 <p align="center">
   <a href="https://github.com/sofiakatzman"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
-
- -->
+-->
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There! I am
-                <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia Katzman</a></b>
-        </samp>
+  <samp>&gt; Hey there! I am
+    <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia Katzman</a></b>
+  </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack software engineer, working as a digital designer! 」
+    「 I am a full-stack software engineer, currently working as a digital designer! 」
     <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
- <a href="https://www.sofiakatzman.dev/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=heroku&logoColor=white" alt="sofiak website" />
- </a>
- <a href="https://linkedin.com/in/sofia-katzman" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sofiak linked-in"/>
- </a>
- <a href="https://medium.com/@katzmansof" target="_blank">
-  <img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="sofiak blog" />
- </a>
+  <a href="https://www.sofiakatzman.dev/" target="blank">
+    <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=heroku&logoColor=white" alt="sofiak website" />
+  </a>
+  <a href="https://linkedin.com/in/sofia-katzman" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sofiak linked-in"/>
+  </a>
+  <a href="https://medium.com/@katzmansof" target="_blank">
+    <img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="sofiak blog" />
+  </a>
 </p>
 <br />
 
 <!-- About Section -->
- # About me
- 
+# About me
+
 <p>
-  
- ✌️ &emsp; Life lover, game enthusiaist and above average baker.<br/><br/>
- ❤️ &emsp; I love building all the things. IRL and here.<br/><br/>
- 💡 &emsp; On a never ending quest for learning everything I can. <br/><br/>
- 📧 &emsp; Contact me: katzmansof@gmail.com<br/><br/>
- 
+  ✌️ &emsp; Life lover, game enthusiast, and above-average baker.<br/><br/>
+  ❤️ &emsp; I love building all the things, both in real life and here.<br/><br/>
+  💡 &emsp; On a never-ending quest for learning everything I can. <br/><br/>
+  📧 &emsp; Contact me: katzmansof@gmail.com<br/><br/>
 </p>
 
 <br/>
-
 
 ## Technologies
 
@@ -72,26 +67,25 @@
 ![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow)
-![Wehsocket.io](https://img.shields.io/badge/Websocket.io-pink?style=for-the-badge&logo=Websocket.io&logoColor=white)
+![Websocket.io](https://img.shields.io/badge/Websocket.io-pink?style=for-the-badge&logo=Websocket.io&logoColor=white)
 
 <br/>
 <!-- Featured Project Section -->
- # Projects
- <h3>EduGuide</h3>
- A video platform with an easy to access, voice activated AI Chatbot that allows a user to understand subjects on their terms.
+# Featured Projects
+
+<h3>EduGuide</h3>
+A video platform with an easy-to-access, voice-activated AI Chatbot that allows users to understand subjects on their terms.
 Integrated with ChatGPT, the application uses the user's microphone as text input. UI features large buttons to minimize mobility. React front-end, Python backend with Flask API. Hackathon submission, October 2023. 
-- [Presentation]([[https://github.com/elainedoud/RecycleQuest.git](https://github.com/sofiakatzman/Team3-Hacktember2023](https://docs.google.com/presentation/d/1q95mb1ZPynX8nZMZ0KF7fxg3qIKmwwKjiNtGbYZRZGc/edit?usp=sharing)))
-- [Repo]([https://github.com/elainedoud/RecycleQuest.git](https://github.com/sofiakatzman/Team3-Hacktember2023))
-<br/>
+- [Presentation](https://docs.google.com/presentation/d/1q95mb1ZPynX8nZMZ0KF7fxg3qIKmwwKjiNtGbYZRZGc/edit?usp=sharing)
+- [Repo](https://github.com/sofiakatzman/Team3-Hacktember2023)
 
 <h3>Recyclequest</h3>
-RecycleQuest is a gamified web platform that makes recycling the fun and educational experience consumers are looking for. Centered around community engagement and social interaction, RecycleQuest revolutionizes the way individuals approach recycling and learning about environmentally friendly practices.
+RecycleQuest is a gamified web platform that makes recycling a fun and educational experience for consumers. Centered around community engagement and social interaction, RecycleQuest revolutionizes the way individuals approach recycling and learning about environmentally friendly practices.
 - [Video Walkthrough](https://youtu.be/X9x1nlTRcv0)
 - [Live Web Application](https://ruby-rails-blazer-part-ii.onrender.com/)
-- [Repo](https://github.com/elainedoud/RecycleQuest.git)
+- [Repo](https://github.com/sofiakatzman/RecycleQuest)
 
- <h3>Milestones</h3>
- A social platform dedicated to illustrating user's life accomplishments via milestones aimed at displaying a user's "full life" in an effort to understand their journey and development better. React front-end, Python backend with Flask API. Websocket.io integration for instant user updates. Bcrypt for user authentication and authorization. UseContext global state handling.
+<h3>Milestones</h3>
+A social platform dedicated to illustrating user's life accomplishments via milestones aimed at displaying a user's "full life" in an effort to understand their journey and development better. React front-end, Python backend with Flask API. Websocket.io integration for instant user updates. Bcrypt for user authentication and authorization. UseContext global state handling.
 - [Video Walkthrough](https://www.youtube.com/watch?v=23grUYcH2Qw)
 - [Repo](https://github.com/sofiakatzman/Milestones.git)
- <h3>EventManager</h3>
