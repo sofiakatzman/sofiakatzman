@@ -72,7 +72,6 @@
 <br/>
 <!-- Featured Project Section -->
 # Featured Projects
-
 <h3>EduGuide</h3>
 A video platform with an easy-to-access, voice-activated AI Chatbot that allows users to understand subjects on their terms.
 Integrated with ChatGPT, the application uses the user's microphone as text input. UI features large buttons to minimize mobility. React front-end, Python backend with Flask API. Hackathon submission, October 2023. 
