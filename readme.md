@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sofiak linked-in"/>
   </a>
   <a href="https://medium.com/@katzmansof" target="_blank">
-    <img src="https://img.shields.io/badge/medium-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="sofiak blog" />
+    <img src="https://img.shields.io/badge/medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="sofiak blog" />
   </a>
 </p>
 
