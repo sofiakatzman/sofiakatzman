@@ -4,9 +4,6 @@
     <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia Katzman</a></b>
 </h3>
 
-<h5 align="center">
-Full stack developer and digital designer. 
-</h5>
 
 <p align="center">
   <a href="https://www.sofiakatzman.dev/" target="blank">
@@ -20,6 +17,9 @@ Full stack developer and digital designer.
   </a>
 </p>
 
+<h5 align="center">
+Full stack developer and digital designer. 
+</h5>
 
 <!-- About Section -->
 # About me
