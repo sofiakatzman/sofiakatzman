@@ -6,9 +6,10 @@
 
 <p align="center"> 
   <samp>
-    「 I am a full-stack software engineer, currently working as a digital designer! 」
+     I am a full-stack software engineer, currently working as a digital designer! 
   </samp>
 </p>
+
 
 <p align="center">
   <a href="https://www.sofiakatzman.dev/" target="blank">
