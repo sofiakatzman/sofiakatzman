@@ -1,8 +1,8 @@
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
   Hey there! I am
     <b><a target="_blank" href="https://www.sofiakatzman.dev/">Sofia Katzman</a></b>
-</h3>
+</h1>
 
 
 
@@ -18,9 +18,9 @@
   </a>
 </p>
 
-<h5 align="center">
+<h3 align="center">
 Full stack developer and digital designer. 
-</h5>
+</h3>
 
 <!-- About Section -->
 # About me
