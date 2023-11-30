@@ -6,7 +6,6 @@
 <h3 align="center">
 Full stack developer and digital designer. 
 </h3>
-<br/>
 
 
 <p align="center">
