@@ -1,8 +1,8 @@
 <!-- Intro  -->
-<p align="center">
-  <h3 align="center">
+<h3 align="center">
   Hey there, I am Sofia!
 </h3>
+<p align="center">
   <a href="https://www.sofiakatzman.dev/" target="blank">
     <img src="https://img.shields.io/badge/portfolio-DC143C?style=for-the-badge&logo=heroku&logoColor=white" alt="sofiak website" />
   </a>
