@@ -75,3 +75,23 @@
 ![Wehsocket.io](https://img.shields.io/badge/Websocket.io-pink?style=for-the-badge&logo=Websocket.io&logoColor=white)
 
 <br/>
+<!-- Featured Project Section -->
+ # Projects
+ <h3>EduGuide</h3>
+ A video platform with an easy to access, voice activated AI Chatbot that allows a user to understand subjects on their terms.
+Integrated with ChatGPT, the application uses the user's microphone as text input. UI features large buttons to minimize mobility. React front-end, Python backend with Flask API. Hackathon submission, October 2023. 
+- [Presentation]([[https://github.com/elainedoud/RecycleQuest.git](https://github.com/sofiakatzman/Team3-Hacktember2023](https://docs.google.com/presentation/d/1q95mb1ZPynX8nZMZ0KF7fxg3qIKmwwKjiNtGbYZRZGc/edit?usp=sharing)))
+- [Repo]([https://github.com/elainedoud/RecycleQuest.git](https://github.com/sofiakatzman/Team3-Hacktember2023))
+<br/>
+
+<h3>Recyclequest</h3>
+RecycleQuest is a gamified web platform that makes recycling the fun and educational experience consumers are looking for. Centered around community engagement and social interaction, RecycleQuest revolutionizes the way individuals approach recycling and learning about environmentally friendly practices.
+- [Video Walkthrough](https://youtu.be/X9x1nlTRcv0)
+- [Live Web Application](https://ruby-rails-blazer-part-ii.onrender.com/)
+- [Repo](https://github.com/elainedoud/RecycleQuest.git)
+
+ <h3>Milestones</h3>
+ A social platform dedicated to illustrating user's life accomplishments via milestones aimed at displaying a user's "full life" in an effort to understand their journey and development better. React front-end, Python backend with Flask API. Websocket.io integration for instant user updates. Bcrypt for user authentication and authorization. UseContext global state handling.
+- [Video Walkthrough](https://www.youtube.com/watch?v=23grUYcH2Qw)
+- [Repo](https://github.com/sofiakatzman/Milestones.git)
+ <h3>EventManager</h3>
